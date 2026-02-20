@@ -1,9 +1,3 @@
-// Kelvin Bhual
-// Assignment 5
-// COP3330
-
-package assignment5;
-
 public class ElectricCar extends Vehicle implements Rechargeable {
 	// Initialize unique variable
 	private int batteryPercent;
@@ -61,3 +55,4 @@ public class ElectricCar extends Vehicle implements Rechargeable {
 	}
 
 }
+
