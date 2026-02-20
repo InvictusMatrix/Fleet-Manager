@@ -1,9 +1,3 @@
-// Kelvin Bhual
-// Assignment 5
-// COP3330
-
-package assignment5;
-
 public class DieselTruck extends Vehicle implements FuelPowered {
 	// Initialize unique variable
 	private double fuelGallons;
@@ -61,3 +55,4 @@ public class DieselTruck extends Vehicle implements FuelPowered {
 	}
 
 }
+
