@@ -1,9 +1,3 @@
-// Kelvin Bhual
-// Assignment 5
-// COP3330
-
-package assignment5;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -131,3 +125,4 @@ public class FleetManager {
 		input.close();
 	}
 }
+
