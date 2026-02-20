@@ -1,9 +1,3 @@
-// Kelvin Bhual
-// Assignment 5
-// COP3330
-
-package assignment5;
-
 public abstract class Vehicle {
 	// Initialize variables
 	private String vehicleID;
@@ -51,3 +45,4 @@ public abstract class Vehicle {
 		this.maxSpeed = maxSpeed;
 	}
 }
+
