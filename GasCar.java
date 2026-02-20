@@ -1,5 +1,3 @@
-package assignment5;
-
 public class GasCar extends Vehicle implements FuelPowered {
 	
 	private double fuelGallons;
@@ -50,3 +48,4 @@ public class GasCar extends Vehicle implements FuelPowered {
 	}
 
 }
+
