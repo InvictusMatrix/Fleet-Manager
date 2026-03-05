@@ -1,1 +1,1 @@
-FleetManager is the main file, all of the others are interfaces and objects. This project demonstrates the ability to use object-oriented principles to create an adaptable management system for a hypothetical fleet of company-owned vehicles.
+FleetManager is the main file, all of the others are objects. This project demonstrates the ability to use object-oriented principles to create an adaptable management system for a hypothetical fleet of company-owned vehicles.
